@@ -1,0 +1,20 @@
+#t01 {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgb(23, 189, 23);
+  }
+  #t02 {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgb(175, 16, 16)
+  }
+tr, th, table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+caption{
+  Font-family:verdana, bold;
+    font-size: 50px;
+    color:rgb(0, 0, 0);
+}
